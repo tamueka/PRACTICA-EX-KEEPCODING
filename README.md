@@ -1,5 +1,5 @@
 # PRACTICA-UX-KEEPCODING
-Ejercicio Módulo UX
+
 La web de atrapalo.com se dedica a la venta de entradas para diversos tipos de espectáculos, reserva restaurantes, planes o actividades, buscar vuelos, buscar trenes, reserva hoteles, viajes, cruceros y coches.
 
 Vamos a focalizarnos en la sección de teatro y danza de esta web y encontrar 3 objetivos a realizar en esta sección.
